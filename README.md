@@ -10,5 +10,19 @@ Detects whether a person is wearing a mask or not by utilizing the Yolo-V4-Tiny 
 
 ## Mask Detection in Actiom :
 **By feeding external image :**
-<img src="./resources/readme images/sample image.png" alt="sample image" width="300"/>
+
+<img src="./Resources/Readme Images/sample image.png" alt="sample image" width="300"/>     
+<img src="./Resources/Readme Images/sample image detection.png" alt="sample image detection.png" width="300"/>
+
+
+**Detection Using Webcam Image :**
+
+<img src="./Resources/Readme Images/detection using webcam image.png" alt="detection using webcam image.png" width="300"/>
+
+
+**Detection Using Live Webcam Video :**
+
+<img src="./Resources/Readme Images/detection using live webcam video.png" alt="detection using live webcam video.png" width="300"/>
+
+
 
